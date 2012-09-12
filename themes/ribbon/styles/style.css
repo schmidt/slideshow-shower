@@ -140,7 +140,7 @@ BODY {
 
 /* Code */
 .slide PRE {
-	margin:0 0 45px;
+	margin: 0 45px 45px;
 	counter-reset:code;
 	white-space:normal;
 	}
@@ -149,15 +149,7 @@ BODY {
 		padding:0;
 		background:none;
 		white-space:pre;
-		}
-	.slide PRE CODE:before {
-		position:absolute;
-		margin:0 0 0 -120px;
-		width:110px;
-		color:#BBB;
-		text-align:right;
-		counter-increment:code;
-		content:counter(code, decimal-leading-zero)'.';
+    line-height: 1.6em;
 		}
 	.slide PRE MARK {
 		padding:3px 8px;
