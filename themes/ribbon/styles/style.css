@@ -42,6 +42,10 @@ BODY {
 	font:bold 40px/1.13 'PT Sans Narrow', sans-serif;
 	}
 
+.slide SECTION > H1 {
+  display: none;
+  }
+
 /* Elements */
 .slide P {
 	margin:0 0 45px;
