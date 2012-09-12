@@ -13,7 +13,7 @@ Note, the package is configured to use the following headers in `slides.html.erb
 
 If you want to try it yourself, install (fetch) the new template pack. Issue the command:
 
-    $ slideshow -f https://github.com/geraldb/slideshow-shower/raw/master/shower.txt
+    $ slideshow -f https://raw.github.com/schmidt/slideshow-shower/master/shower.txt
 
 To check if the new template got installed, use the `-l/--list` switch/command:
 
