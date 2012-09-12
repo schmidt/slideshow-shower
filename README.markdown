@@ -1,14 +1,14 @@
 
 ## Slide Show (S9) Template Pack - Shower (Ribbon Theme)
 
-The [Shower](https://github.com/pepelsbey/shower) package by Vadim Makeev bundled up into 
+The [Shower](https://github.com/pepelsbey/shower) package by Vadim Makeev bundled up into
 a Slide Show (S9) template pack.
 
 Note, the package is configured to use the following headers in `slides.html.erb`:
 
     author: Your Name Here
     title: Your Slide Show Title Here
- 
+
 ## Try It Yourself - How To Use the Template Pack
 
 If you want to try it yourself, install (fetch) the new template pack. Issue the command:
@@ -28,7 +28,7 @@ Now you're ready to use it using the `-t/--template` switch. Example:
 
     $ slideshow -t shower.txt tutorial
 
-That's it. 
+That's it.
 
 ## Questions? Comments?
 
