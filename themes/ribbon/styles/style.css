@@ -379,3 +379,8 @@ BODY {
 .full .progress-off {
 	z-index:1;
 	}
+
+TEXTAREA {
+  font: inherit;
+  border-style: dotted;
+}
